@@ -108,4 +108,3 @@ class DecodeHRV(ComputeFeatureBase):
             print("Decoding All the Raw MotionsenseHRV Raw Byte Data")
             self.all_users_data("mperf-alabsi")
 
-DecodeHRV.process()
